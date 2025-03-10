@@ -1,6 +1,8 @@
 # Bank-Churn-Data-Analysis-With-Excel
 This is data analysis of a bank's data with the help of excel , includes some basic to advance questions and an interactive dashboard.
+
 Dataset Description
+
 This dataset contains information about 500 bank customers and is designed to help understand factors contributing to customer churn. The dataset includes the following variables:
 
 CustomerID: A unique identifier for each customer.
